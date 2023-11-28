@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brunomendes1
+- 👋 Hi, I’m @bmendes1
 - 👀 I’m interested in satistical models, machine learning algorithms and deep learning
 - 🌱 I’m currently learning SQL and Python
 <!--- 💞️ I’m looking to collaborate on any of these subjects
